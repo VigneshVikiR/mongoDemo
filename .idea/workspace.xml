@@ -21,6 +21,9 @@
       </usages-collector>
     </session>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
     <package-json value="$PROJECT_DIR$/package.json" />
@@ -45,6 +48,7 @@
     <option name="width" value="1680" />
     <option name="height" value="959" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -98,12 +102,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571391676839</updated>
-      <workItem from="1571391678103" duration="116000" />
+      <workItem from="1571391678103" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116000" />
+    <option name="totallyTimeSpent" value="376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="959" extended-state="6" />
